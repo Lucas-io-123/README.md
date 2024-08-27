@@ -13,4 +13,4 @@
 
 ### Socials
 
-[<img src="https://maarsseveen.com/assets/images/logo.webp">](https://maarsseveen.com/)
+[<img src="https://maarsseveen.com/assets/images/logo.webp" alt="Logo" width="30px" height="30px">](https://maarsseveen.com/)

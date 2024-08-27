@@ -13,4 +13,4 @@
 
 ### Socials
 
-[<img src="https://static.vecteezy.com/system/resources/previews/018/930/718/non_2x/discord-logo-discord-icon-transparent-free-png.png" alt="Logo" width="40px" height="40px">](https://discordapp.com/users/690879933764993035)  [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" alt="Logo" width="30px" height="30px">](https://github.com/Lucass-io)
+[<img src="https://static.vecteezy.com/system/resources/previews/018/930/718/non_2x/discord-logo-discord-icon-transparent-free-png.png" alt="Logo" width="40px" height="40px">](https://discordapp.com/users/690879933764993035)  [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" alt="Logo" width="30px" height="25px">](https://github.com/Lucass-io)

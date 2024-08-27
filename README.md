@@ -12,3 +12,5 @@
 
 
 ### Socials
+
+https://discord.gg/maarsseveen/<digest>?url=https://maarsseveen.com/assets/images/logo.webp

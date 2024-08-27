@@ -13,4 +13,4 @@
 
 ### Socials
 
-https://discord.gg/maarsseveen/<digest>?url=https://maarsseveen.com/assets/images/logo.webp
+<a href="https://discord.com/"><img src="https://maarsseveen.com/assets/images/logo.webp></img></a>

@@ -10,6 +10,6 @@
 ### My skills
 ![alt text][logo]
 
-[logo]: https://imgur.com/qIh2j6G "JavaScript"
+[logo]: https://i.imgur.com/qIh2j6G.png "JavaScript"
 
 ### Socials

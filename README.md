@@ -8,7 +8,7 @@
 - 🤝 I'm open to collaborating on FiveM or NodeJS Projects
 
 ### My skills
-![alt text](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![alt text](https://i.imgur.com/kkRcPe6.png) ![alt text](https://i.imgur.com/kkRcPe6.png) ![alt text](https://i.imgur.com/kkRcPe6.png) ![alt text](https://i.imgur.com/kkRcPe6.png) ![alt text](https://i.imgur.com/kkRcPe6.png)
 
 
 ### Socials

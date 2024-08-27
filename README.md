@@ -13,4 +13,4 @@
 
 ### Socials
 
-<a href="https://discord.com/"><img src="https://maarsseveen.com/assets/images/logo.webp></img></a>
+[<img src="https://maarsseveen.com/assets/images/logo.webp">](https://maarsseveen.com/)

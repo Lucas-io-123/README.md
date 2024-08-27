@@ -13,4 +13,4 @@
 
 ### Socials
 
-[<img src="https://maarsseveen.com/assets/images/logo.webp" alt="Logo" width="30px" height="30px">](https://maarsseveen.com/)
+[<img src="https://static.vecteezy.com/system/resources/previews/018/930/718/non_2x/discord-logo-discord-icon-transparent-free-png.png" alt="Logo" width="40px" height="40px">](https://discordapp.com/users/690879933764993035)

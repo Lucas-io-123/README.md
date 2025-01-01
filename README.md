@@ -12,6 +12,7 @@
 [<img src="https://i.imgur.com/qpC2o9t.png" alt="Logo" width="30px" height="30px">](https://developer.mozilla.org/en-US/docs/Web/HTML)                                          [<img src="https://i.imgur.com/45tJuQQ.png" alt="Logo" width="30px" height="30px">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
-### My links
+### Github Statistics ⚡
+[![Syntax's github stats](https://github-readme-stats.vercel.app/api?username=Lucass-io&layout=compact&show_icons=true&theme=transparent)](https://github.com/ericwang401/ericwang401) [![Syntax's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-io&layout=compact&theme=transparent)](https://github.com/ericwang401/ericwang401)
 
-[<img src="https://seeklogo.com/images/D/discord-logo-7A1EC3216C-seeklogo.com.png" alt="Logo" width="30px" height="30px">](https://discordapp.com/users/690879933764993035)     [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" alt="Logo" width="30px" height="30px">](https://github.com/Lucass-io)
+![](https://komarev.com/ghpvc/?username=Lucass-io&color=blue)

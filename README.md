@@ -13,6 +13,6 @@
 
 
 ### Github Statistics ⚡
-[![Syntax's github stats](https://github-readme-stats.vercel.app/api?username=Lucass-io&layout=compact&show_icons=true&theme=transparent)](https://github.com/ericwang401/ericwang401) [![Syntax's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-io&layout=compact&theme=transparent)](https://github.com/ericwang401/ericwang401)
+[![Syntax's github stats](https://github-readme-stats.vercel.app/api?username=Lucass-io&layout=compact&show_icons=true&theme=transparent)](https://github.com/Lucass-io/Lucass-io) [![Syntax's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-io&layout=compact&theme=transparent)](https://github.com/Lucass-io/Lucass-io)
 
 ![](https://komarev.com/ghpvc/?username=Lucass-io&color=blue)
